@@ -1,4 +1,4 @@
-import MyComponts from './MyComponts.jsx';
+import TodoList from "./TodoList.jsx";
 
 
 function App(){
@@ -10,7 +10,7 @@ function App(){
     <>
 
   
-    <MyComponts />
+  <TodoList />
     
 
 
